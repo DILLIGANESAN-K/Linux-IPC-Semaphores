@@ -27,11 +27,11 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 $ ./sem.o 
-
+![alt text](1.png)
 
 $ ipcs
 
-
+![alt text](<Screenshot at 2025-11-15 11-18-19.png>)
 
 
 
